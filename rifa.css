@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(6, 0, 85);
+}
+.container{
+    justify-content: center;
+    
+}
+.container h1{
+    color: white;
+    text-align: center;
+}
+.container p {
+    color: black;
+    margin-left: 15px;
+}
+.container table{
+
+    justify-content: center;
+    margin: auto;
+    width: 800px;
+}
+.container tr{
+    border:5px solid black;
+    background-color: white;
+    
+}
+.container td{
+    border:5px solid black;
+    background-color: white;
+}
